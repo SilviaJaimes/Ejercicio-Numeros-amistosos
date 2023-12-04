@@ -1,0 +1,14 @@
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\bin\Debug\net7.0\Ejercicio-Numeros-amistosos.exe
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\bin\Debug\net7.0\Ejercicio-Numeros-amistosos.deps.json
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\bin\Debug\net7.0\Ejercicio-Numeros-amistosos.runtimeconfig.json
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\bin\Debug\net7.0\Ejercicio-Numeros-amistosos.dll
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\bin\Debug\net7.0\Ejercicio-Numeros-amistosos.pdb
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.AssemblyInfoInputs.cache
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.AssemblyInfo.cs
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.csproj.CoreCompileInputs.cache
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.dll
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\refint\Ejercicio-Numeros-amistosos.dll
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.pdb
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\Ejercicio-Numeros-amistosos.genruntimeconfig.cache
+C:\Users\APT01-40\Ejercicio-Numeros-amistosos\obj\Debug\net7.0\ref\Ejercicio-Numeros-amistosos.dll
